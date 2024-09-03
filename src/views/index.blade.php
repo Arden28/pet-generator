@@ -12,7 +12,8 @@
 <body>
     <div class="container">
         @foreach($cats as $key => $cat)
-        <img src="{{ $cat->url }}" alt="" height="70px" width="70px">
+        {{-- <img src="{{ $cat->url }}" alt="" height="70px" width="70px"> --}}
+        <span>Hello</span>
         @endforeach
     </div>
 </body>
