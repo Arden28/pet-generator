@@ -9,10 +9,8 @@ Install Laravel Bi using composer:
 `composer require arden28/pet-generator`
 
 
-### Updating
-
-Run this artisan command to update assets:
-`php artisan vendor:publish --tag=bi-assets --force`
+### Env variables
+THE_CAT_API_KEY=your-cat-api-key
 
 ### Requirements
 
