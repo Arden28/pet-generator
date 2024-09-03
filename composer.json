@@ -1,0 +1,22 @@
+{
+    "name": "arden28/pet-generator",
+    "description": "Pets images generator",
+    "type": "project",
+    "require": {
+        "php": "^7.4|^8.0",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "homepage": "https://github.com/Arden28/pet-generator",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arden28\\PetGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arden28",
+            "email": "laudbouetoumoussa@gmail.com"
+        }
+    ]
+}
