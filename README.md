@@ -10,7 +10,7 @@ Install Laravel Bi using composer:
 
 
 ### Env variables
-THE_CAT_API_KEY=your-cat-api-key
+'THE_CAT_API_KEY=your-cat-api-key'
 
 ### Requirements
 
